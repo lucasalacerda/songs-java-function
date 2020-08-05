@@ -1,0 +1,46 @@
+# Project generated files #
+######################
+.idea/
+build/
+out/
+*.irb-history
+
+# OS generated files #
+######################
+*.DS_Store
+*/.DS_Store
+.DS_Store
+.DS_Store?
+
+# Packages #
+############
+*.html
+
+# Created by https://www.gitignore.io/api/gradle
+
+### Gradle ###
+.gradle
+/build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+
+#Intelij
+.idea/**/gradle.xml
+.idea/**/workspace.xml
+.idea/**/uiDesigner.xml
+# .idea/misc.xml
+*.iml
+
+# TM4J Files #
+tm4j_result.json
+output_result.zip
